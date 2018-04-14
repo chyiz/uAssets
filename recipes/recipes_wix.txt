@@ -1,0 +1,15 @@
+! Lines starting with character "!" are ignored.
+! Character "_" is an alias for "currently selected scope".
+! An empty line MUST be used to separate distinct ruleset recipes.
+
+Wix.com as 3rd-party
+  * static.parastorage.com
+    _ 1st-party script
+    _ ecom.wix.com css allow
+    _ ecom.wix.com frame allow
+    _ ecom.wix.com script allow
+    _ ecom.wix.com xhr allow
+    _ static.parastorage.com css allow
+    _ static.parastorage.com script allow
+    _ wixstatic.com image allow
+    _ wixstatic.com xhr allow
