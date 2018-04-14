@@ -1,3 +1,7 @@
+! uMatrix: Ruleset recipes 1.0
+! Title: Rulesets for Common site builders before merge into main recipe
+! Maintainer: chyiz
+!
 ! Lines starting with character "!" are ignored.
 ! Character "_" is an alias for "currently selected scope".
 ! An empty line MUST be used to separate distinct ruleset recipes.
