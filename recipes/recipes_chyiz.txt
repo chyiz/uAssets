@@ -9,26 +9,26 @@
 Wix.com as 3rd-party
   * static.parastorage.com
     _ 1st-party script
-    _ ecom.wix.com css allow
-    _ ecom.wix.com frame allow
-    _ ecom.wix.com script allow
-    _ ecom.wix.com xhr allow
-    _ static.parastorage.com css allow
-    _ static.parastorage.com script allow
-    _ wixstatic.com image allow
-    _ wixstatic.com xhr allow
+    _ ecom.wix.com css
+    _ ecom.wix.com frame
+    _ ecom.wix.com script
+    _ ecom.wix.com xhr
+    _ static.parastorage.com css
+    _ static.parastorage.com script
+    _ wixstatic.com image
+    _ wixstatic.com xhr
 
 Shopify as 3rd-party
   * cdn.shopify.com
     _ 1st-party script
-    _ cdn.shopify.com css allow
-    _ cdn.shopify.com image allow
-    _ cdn.shopify.com script allow
-    _ cdn.shopify.com xhr allow
-    _ cdn.shopifycloud.com script allow
-    _ checkout.shopify.com frame allow
-    _ checkout.shopify.com script allow
-    _ myshopify.com xhr allow
-    _ shopifycdn.com css allow
-    _ shopifycdn.com script allow
-    _ v.shopify.com image allow
+    _ cdn.shopify.com css
+    _ cdn.shopify.com image
+    _ cdn.shopify.com script
+    _ cdn.shopify.com xhr
+    _ cdn.shopifycloud.com script
+    _ checkout.shopify.com frame
+    _ checkout.shopify.com script
+    _ myshopify.com xhr
+    _ shopifycdn.com css
+    _ shopifycdn.com script
+    _ v.shopify.com image
