@@ -17,3 +17,18 @@ Wix.com as 3rd-party
     _ static.parastorage.com script allow
     _ wixstatic.com image allow
     _ wixstatic.com xhr allow
+
+Shopify as 3rd-party
+  * cdn.shopify.com
+    _ 1st-party script
+    _ cdn.shopify.com css allow
+    _ cdn.shopify.com image allow
+    _ cdn.shopify.com script allow
+    _ cdn.shopify.com xhr allow
+    _ cdn.shopifycloud.com script allow
+    _ checkout.shopify.com frame allow
+    _ checkout.shopify.com script allow
+    _ myshopify.com xhr allow
+    _ shopifycdn.com css allow
+    _ shopifycdn.com script allow
+    _ v.shopify.com image allow
