@@ -32,3 +32,15 @@ Shopify as 3rd-party
     _ shopifycdn.com css
     _ shopifycdn.com script
     _ v.shopify.com image
+
+Youtube as 3rd-party no account
+  * youtube.com
+    _ youtube.com image
+    _ youtube.com script
+    _ youtube.com xhr
+    _ youtube.com frame
+    _ youtube.com other
+    _ googlevideo.com css
+    _ googlevideo.com xhr
+    _ ytimg.com image
+    _ ytimg.com script
