@@ -35,6 +35,7 @@ Shopify as 3rd-party
 
 Youtube as 3rd-party no account
   * youtube.com
+    _ youtube.com css
     _ youtube.com image
     _ youtube.com script
     _ youtube.com xhr
