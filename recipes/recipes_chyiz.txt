@@ -45,3 +45,15 @@ Youtube as 3rd-party no account
     _ googlevideo.com xhr
     _ ytimg.com image
     _ ytimg.com script
+
+Alibaba CAPTCHA
+  * alicdn.com
+    _ * script
+    _ aliapp.org image
+    _ aliapp.org script
+    _ aliapp.org xhr
+    _ alibaba.com script
+    _ alicdn.com css
+    _ alicdn.com image
+    _ alicdn.com script
+    _ aliyun.com script
