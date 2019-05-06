@@ -21,30 +21,18 @@ Wix.com as 3rd-party
 Shopify as 3rd-party
   * cdn.shopify.com
     _ 1st-party script
-    _ cdn.shopify.com css
-    _ cdn.shopify.com image
+    _ cdn.shopify.com *
     _ cdn.shopify.com script
     _ cdn.shopify.com xhr
+    _ pay.shopify.com xhr
+    _ cdn.shopifycloud.com *
     _ cdn.shopifycloud.com script
     _ checkout.shopify.com frame
     _ checkout.shopify.com script
     _ myshopify.com xhr
-    _ shopifycdn.com css
-    _ shopifycdn.com script
-    _ v.shopify.com image
+    _ shopifycdn.com *
+    _ v.shopify.com *
 
-Youtube as 3rd-party no account
-  * youtube.com
-    _ youtube.com css
-    _ youtube.com image
-    _ youtube.com script
-    _ youtube.com xhr
-    _ youtube.com frame
-    _ youtube.com other
-    _ googlevideo.com css
-    _ googlevideo.com xhr
-    _ ytimg.com image
-    _ ytimg.com script
 
 Alibaba CAPTCHA
   * alicdn.com
